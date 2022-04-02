@@ -1,0 +1,12 @@
+C:\Users\magical\Downloads\WF---medici-pacienti-master\WF---medici-pacienti-master\WF - medici-pacienti\bin\Debug\WF - medici-pacienti.exe.config
+C:\Users\magical\Downloads\WF---medici-pacienti-master\WF---medici-pacienti-master\WF - medici-pacienti\bin\Debug\WF - medici-pacienti.exe
+C:\Users\magical\Downloads\WF---medici-pacienti-master\WF---medici-pacienti-master\WF - medici-pacienti\bin\Debug\WF - medici-pacienti.pdb
+C:\Users\magical\Downloads\WF---medici-pacienti-master\WF---medici-pacienti-master\WF - medici-pacienti\obj\Debug\WF - medici-pacienti.csproj.AssemblyReference.cache
+C:\Users\magical\Downloads\WF---medici-pacienti-master\WF---medici-pacienti-master\WF - medici-pacienti\obj\Debug\WF___medici_pacienti.Form1.resources
+C:\Users\magical\Downloads\WF---medici-pacienti-master\WF---medici-pacienti-master\WF - medici-pacienti\obj\Debug\WF___medici_pacienti.FormMedic.resources
+C:\Users\magical\Downloads\WF---medici-pacienti-master\WF---medici-pacienti-master\WF - medici-pacienti\obj\Debug\WF___medici_pacienti.FormPacient.resources
+C:\Users\magical\Downloads\WF---medici-pacienti-master\WF---medici-pacienti-master\WF - medici-pacienti\obj\Debug\WF___medici_pacienti.Properties.Resources.resources
+C:\Users\magical\Downloads\WF---medici-pacienti-master\WF---medici-pacienti-master\WF - medici-pacienti\obj\Debug\WF - medici-pacienti.csproj.GenerateResource.cache
+C:\Users\magical\Downloads\WF---medici-pacienti-master\WF---medici-pacienti-master\WF - medici-pacienti\obj\Debug\WF - medici-pacienti.csproj.CoreCompileInputs.cache
+C:\Users\magical\Downloads\WF---medici-pacienti-master\WF---medici-pacienti-master\WF - medici-pacienti\obj\Debug\WF - medici-pacienti.exe
+C:\Users\magical\Downloads\WF---medici-pacienti-master\WF---medici-pacienti-master\WF - medici-pacienti\obj\Debug\WF - medici-pacienti.pdb
